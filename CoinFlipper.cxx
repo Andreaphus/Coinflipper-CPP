@@ -7,7 +7,7 @@ int engine()
 int Randnum;
 srand(time(0));
 Randnum=rand()%2;	
-std::cout<<Randnum;
+//std::cout<<Randnum;
 return Randnum;
 }
 
